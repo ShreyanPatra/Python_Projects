@@ -111,7 +111,7 @@ def spin(balance):
             break
         else:
             break
-    print(f'Betting amount is {total_bet}')
+    print(f'Betting amount is {total_bet}.')
     
     slots=slot(ROWS,COLS,symbol_count)
     print_slot(slots)
